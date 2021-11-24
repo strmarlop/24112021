@@ -1,0 +1,28 @@
+body {
+  background-color: lightgoldenrodyellow;
+}
+
+#welcome {
+  height: 400px;
+  font-style: italic;
+  background-image: url("assets/diente_leon.jpg");
+  background-size: cover;
+}
+
+.history {
+  font-weight: bold;
+}
+
+#heroes {
+  font-size: 24px;
+  font-family: "Verdana", "Arial", sans-serif;
+}
+#ares {
+  color: orangered;
+}
+#artemis {
+  color: yellowgreen;
+}
+#hercules {
+  color: red;
+}
